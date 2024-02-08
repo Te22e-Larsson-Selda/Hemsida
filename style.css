@@ -1,0 +1,39 @@
+
+body { 
+    font-family: Arial, sans-serif;
+    grid-template-columns: 7;
+    grid-template-rows: 7;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1%;
+    text-align: center;
+}
+
+div {
+    max-width: 800px;
+    margin: auto;
+    padding: 1%;
+    background-color: #fff;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #555;
+}
+        
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1%;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
